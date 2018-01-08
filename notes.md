@@ -13,5 +13,4 @@ Confused on auto auto vs 1fr 1fr.
 * 'grid-column: span #' = span the number of columns.
 * New row is started if insufficient space exists.
 * Implicit grid created when maximum number of rows/columns is exceeded
-
-### placing items
+* You can have multiple names per lines.
